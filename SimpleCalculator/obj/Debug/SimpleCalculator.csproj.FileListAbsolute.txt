@@ -1,0 +1,6 @@
+/Users/jamoore/Development/C#/SimpleCalculator/bin/Debug/SimpleCalculator.exe
+/Users/jamoore/Development/C#/SimpleCalculator/bin/Debug/SimpleCalculator.pdb
+/Users/jamoore/Development/C#/SimpleCalculator/obj/Debug/SimpleCalculator.csprojResolveAssemblyReference.cache
+/Users/jamoore/Development/C#/SimpleCalculator/obj/Debug/SimpleCalculator.csproj.CoreCompileInputs.cache
+/Users/jamoore/Development/C#/SimpleCalculator/obj/Debug/SimpleCalculator.exe
+/Users/jamoore/Development/C#/SimpleCalculator/obj/Debug/SimpleCalculator.pdb

@@ -1,0 +1,16 @@
+/Users/jamoore/Development/C#/SimpleCalculator/SimpleCalculator.Test.Unit/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/jamoore/Development/C#/SimpleCalculator/SimpleCalculator.Test.Unit/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/jamoore/Development/C#/SimpleCalculator/SimpleCalculator.Test.Unit/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/jamoore/Development/C#/SimpleCalculator/SimpleCalculator.Test.Unit/bin/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.deps.json
+/Users/jamoore/Development/C#/SimpleCalculator/SimpleCalculator.Test.Unit/bin/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.runtimeconfig.json
+/Users/jamoore/Development/C#/SimpleCalculator/SimpleCalculator.Test.Unit/bin/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.runtimeconfig.dev.json
+/Users/jamoore/Development/C#/SimpleCalculator/SimpleCalculator.Test.Unit/bin/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.dll
+/Users/jamoore/Development/C#/SimpleCalculator/SimpleCalculator.Test.Unit/bin/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.pdb
+/Users/jamoore/Development/C#/SimpleCalculator/SimpleCalculator.Test.Unit/bin/Debug/netcoreapp2.1/SimpleCalculator.exe
+/Users/jamoore/Development/C#/SimpleCalculator/SimpleCalculator.Test.Unit/bin/Debug/netcoreapp2.1/SimpleCalculator.pdb
+/Users/jamoore/Development/C#/SimpleCalculator/SimpleCalculator.Test.Unit/obj/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.csprojResolveAssemblyReference.cache
+/Users/jamoore/Development/C#/SimpleCalculator/SimpleCalculator.Test.Unit/obj/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.csproj.CoreCompileInputs.cache
+/Users/jamoore/Development/C#/SimpleCalculator/SimpleCalculator.Test.Unit/obj/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.AssemblyInfoInputs.cache
+/Users/jamoore/Development/C#/SimpleCalculator/SimpleCalculator.Test.Unit/obj/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.AssemblyInfo.cs
+/Users/jamoore/Development/C#/SimpleCalculator/SimpleCalculator.Test.Unit/obj/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.dll
+/Users/jamoore/Development/C#/SimpleCalculator/SimpleCalculator.Test.Unit/obj/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.pdb

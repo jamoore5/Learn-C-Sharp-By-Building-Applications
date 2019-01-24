@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="874d35d6-1161-4c09-94c5-1541162349dd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WordUnscrambler/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="81" column="78" selection-start-line="81" selection-start-column="78" selection-end-line="81" selection-end-column="78" />
+              <folding>
+                <marker date="1548292489908" expanded="false" signature="6:159" ph="..." />
+                <marker date="1548292489908" expanded="true" signature="186:4002" ph="{...}" />
+                <marker date="1548292489908" expanded="true" signature="206:4000" ph="{...}" />
+                <marker date="1548292489908" expanded="true" signature="425:2275" ph="{...}" />
+                <marker date="1548292489908" expanded="true" signature="451:2116" ph="{...}" />
+                <marker date="1548292489908" expanded="true" signature="757:1430" ph="{...}" />
+                <marker date="1548292489908" expanded="true" signature="2149:2265" ph="{...}" />
+                <marker date="1548292489908" expanded="true" signature="2348:2595" ph="{...}" />
+                <marker date="1548292489908" expanded="true" signature="2661:3081" ph="{...}" />
+                <marker date="1548292489908" expanded="true" signature="2687:2916" ph="{...}" />
+                <marker date="1548292489908" expanded="true" signature="2949:3071" ph="{...}" />
+                <marker date="1548292489908" expanded="true" signature="3174:3787" ph="{...}" />
+                <marker date="1548292489908" expanded="true" signature="3427:3672" ph="{...}" />
+                <marker date="1548292489908" expanded="true" signature="3499:3641" ph="{...}" />
+                <marker date="1548292489908" expanded="true" signature="3689:3777" ph="{...}" />
+                <marker date="1548292489908" expanded="true" signature="3842:3985" ph="{...}" />
+                <marker date="1548292489908" expanded="true" signature="3903:3975" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WordUnscrambler/Constants.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+              <folding>
+                <marker date="1548292576784" expanded="true" signature="25:1253" ph="{...}" />
+                <marker date="1548292576784" expanded="true" signature="54:1251" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WorkUnscramber.Test.Unit/WordMatcherTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+              <folding>
+                <marker date="1548292546170" expanded="true" signature="6:109" ph="..." />
+                <marker date="1548292546170" expanded="true" signature="145:1540" ph="{...}" />
+                <marker date="1548292546170" expanded="true" signature="196:1538" ph="{...}" />
+                <marker date="1548292546170" expanded="true" signature="440:901" ph="{...}" />
+                <marker date="1548292546170" expanded="true" signature="989:1532" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WordUnscrambler/Worker/FileReader.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="26" column="54" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
+              <folding>
+                <marker date="1548292484884" expanded="true" signature="6:64" ph="..." />
+                <marker date="1548292484884" expanded="true" signature="98:852" ph="{...}" />
+                <marker date="1548292484884" expanded="true" signature="128:840" ph="{...}" />
+                <marker date="1548292484884" expanded="true" signature="180:606" ph="{...}" />
+                <marker date="1548292484884" expanded="true" signature="266:443" ph="{...}" />
+                <marker date="1548292484884" expanded="true" signature="343:429" ph="{...}" />
+                <marker date="1548292484884" expanded="true" signature="476:553" ph="{...}" />
+                <marker date="1548292484884" expanded="true" signature="697:834" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WordUnscrambler/Worker/WordListParser.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+              <folding>
+                <marker date="1548292476109" expanded="false" signature="6:83" ph="..." />
+                <marker date="1548292476109" expanded="true" signature="117:1082" ph="{...}" />
+                <marker date="1548292476109" expanded="true" signature="151:1080" ph="{...}" />
+                <marker date="1548292476109" expanded="true" signature="241:1072" ph="{...}" />
+                <marker date="1548292476109" expanded="true" signature="338:922" ph="{...}" />
+                <marker date="1548292476109" expanded="true" signature="396:908" ph="{...}" />
+                <marker date="1548292476109" expanded="true" signature="598:773" ph="{...}" />
+                <marker date="1548292476109" expanded="true" signature="798:890" ph="{...}" />
+                <marker date="1548292476109" expanded="true" signature="955:1032" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WorkUnscramber.Test.Unit/WordListParserTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+              <folding>
+                <marker date="1548292470475" expanded="true" signature="6:115" ph="..." />
+                <marker date="1548292470475" expanded="true" signature="151:1526" ph="{...}" />
+                <marker date="1548292470475" expanded="true" signature="205:1524" ph="{...}" />
+                <marker date="1548292470475" expanded="true" signature="370:1518" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WordUnscrambler/wordlist.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AA5DBDAA-4360-4F13-8056-6B8638FD6EA1/57/718c6d6f/File.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="369" column="6" selection-start-line="369" selection-start-column="6" selection-end-line="369" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WordUnscrambler/Worker/WordMatcher.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+              <folding>
+                <marker date="1548292516776" expanded="false" signature="6:117" ph="..." />
+                <marker date="1548292516776" expanded="true" signature="151:1167" ph="{...}" />
+                <marker date="1548292516776" expanded="true" signature="182:1165" ph="{...}" />
+                <marker date="1548292516776" expanded="true" signature="299:868" ph="{...}" />
+                <marker date="1548292516776" expanded="true" signature="424:824" ph="{...}" />
+                <marker date="1548292516776" expanded="true" signature="697:810" ph="{...}" />
+                <marker date="1548292516776" expanded="true" signature="956:1159" ph="{...}" />
+                <marker date="1548292516776" expanded="true" signature="1025:1115" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WordUnscrambler/Worker/StringSorter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+              <folding>
+                <marker date="1548290368121" expanded="true" signature="47:285" ph="{...}" />
+                <marker date="1548290368121" expanded="true" signature="79:283" ph="{...}" />
+                <marker date="1548290368121" expanded="true" signature="132:277" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WordUnscrambler/Data/MatchedWord.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WordUnscrambler/Worker/FileReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WordUnscrambler/Worker/WordMatcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WordUnscrambler/Constants.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WordUnscrambler/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WorkUnscramber.Test.Unit/WordListParserTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WordUnscrambler/Worker/StringSorter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WordUnscrambler/Worker/WordListParser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AA5DBDAA-4360-4F13-8056-6B8638FD6EA1/57/718c6d6f/File.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WorkUnscramber.Test.Unit/WordMatcherTest.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WordUnscrambler/Data/MatchedWord.cs" />
+        <option value="$PROJECT_DIR$/WorkUnscramber.Test.Unit/Tests.cs" />
+        <option value="$PROJECT_DIR$/WorkUnscramber.Test.Unit/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/WordUnscrambler/Worker/StringSorter.cs" />
+        <option value="$PROJECT_DIR$/WordUnscrambler/wordlist.txt" />
+        <option value="$PROJECT_DIR$/WorkUnscramber.Test.Unit/WordListParserTest.cs" />
+        <option value="$PROJECT_DIR$/WordUnscrambler/Worker/WordListParser.cs" />
+        <option value="$PROJECT_DIR$/WordUnscrambler/Worker/FileReader.cs" />
+        <option value="$PROJECT_DIR$/WordUnscrambler/Program.cs" />
+        <option value="$PROJECT_DIR$/WordUnscrambler/Worker/WordMatcher.cs" />
+        <option value="$PROJECT_DIR$/WorkUnscramber.Test.Unit/WordMatcherTest.cs" />
+        <option value="$PROJECT_DIR$/WordUnscrambler/Constants.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="WordUnscrambler" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="WordUnscrambler" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WordUnscrambler" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="WordUnscrambler" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WordUnscrambler" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Worker" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="WordUnscrambler" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WorkUnscramber.Test.Unit" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SimpleCalculator" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/WordUnscrambler/bin/Debug/netcoreapp2.1/WordUnscrambler.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WordUnscrambler" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WordUnscrambler/WordUnscrambler.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="874d35d6-1161-4c09-94c5-1541162349dd" name="Default Changelist" comment="" />
+      <created>1547682568241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547682568241</updated>
+      <workItem from="1547682571622" duration="234000" />
+      <workItem from="1547682843291" duration="7367000" />
+      <workItem from="1547768745094" duration="168000" />
+      <workItem from="1547769046523" duration="1891000" />
+      <workItem from="1548287821151" duration="4572000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14232000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27737227" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32846716" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/WordUnscrambler/Program.cs</url>
+          <line>20</line>
+          <properties documentPath="$PROJECT_DIR$/WordUnscrambler/Program.cs" initialLine="20">
+            <startOffsets>
+              <option value="483" />
+            </startOffsets>
+            <endOffsets>
+              <option value="518" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/WordUnscrambler/Worker/WordMatcher.cs</url>
+          <line>15</line>
+          <properties documentPath="$PROJECT_DIR$/WordUnscrambler/Worker/WordMatcher.cs" initialLine="15">
+            <startOffsets>
+              <option value="379" />
+            </startOffsets>
+            <endOffsets>
+              <option value="424" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/WordUnscrambler/Program.cs</url>
+          <line>87</line>
+          <properties documentPath="$PROJECT_DIR$/WordUnscrambler/Program.cs" initialLine="87">
+            <startOffsets>
+              <option value="3197" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3298" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WorkUnscramber.Test.Unit/Tests.cs" />
+    <entry file="file://$PROJECT_DIR$/WordUnscrambler/WordUnscrambler.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WordUnscrambler/Data/MatchedWord.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <marker date="1547689850053" expanded="true" signature="30:167" ph="{...}" />
+            <marker date="1547689850053" expanded="true" signature="62:165" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WordUnscrambler/words.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WordUnscrambler/Worker/StringSorter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <marker date="1548290368121" expanded="true" signature="47:285" ph="{...}" />
+            <marker date="1548290368121" expanded="true" signature="79:283" ph="{...}" />
+            <marker date="1548290368121" expanded="true" signature="132:277" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AA5DBDAA-4360-4F13-8056-6B8638FD6EA1/57/718c6d6f/File.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="369" column="6" selection-start-line="369" selection-start-column="6" selection-end-line="369" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WordUnscrambler/Worker/WordListParser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+          <folding>
+            <marker date="1548292476109" expanded="false" signature="6:83" ph="..." />
+            <marker date="1548292476109" expanded="true" signature="117:1082" ph="{...}" />
+            <marker date="1548292476109" expanded="true" signature="151:1080" ph="{...}" />
+            <marker date="1548292476109" expanded="true" signature="241:1072" ph="{...}" />
+            <marker date="1548292476109" expanded="true" signature="338:922" ph="{...}" />
+            <marker date="1548292476109" expanded="true" signature="396:908" ph="{...}" />
+            <marker date="1548292476109" expanded="true" signature="598:773" ph="{...}" />
+            <marker date="1548292476109" expanded="true" signature="798:890" ph="{...}" />
+            <marker date="1548292476109" expanded="true" signature="955:1032" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WordUnscrambler/Worker/FileReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="26" column="54" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
+          <folding>
+            <marker date="1548292484884" expanded="true" signature="6:64" ph="..." />
+            <marker date="1548292484884" expanded="true" signature="98:852" ph="{...}" />
+            <marker date="1548292484884" expanded="true" signature="128:840" ph="{...}" />
+            <marker date="1548292484884" expanded="true" signature="180:606" ph="{...}" />
+            <marker date="1548292484884" expanded="true" signature="266:443" ph="{...}" />
+            <marker date="1548292484884" expanded="true" signature="343:429" ph="{...}" />
+            <marker date="1548292484884" expanded="true" signature="476:553" ph="{...}" />
+            <marker date="1548292484884" expanded="true" signature="697:834" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WordUnscrambler/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="81" column="78" selection-start-line="81" selection-start-column="78" selection-end-line="81" selection-end-column="78" />
+          <folding>
+            <marker date="1548292489908" expanded="false" signature="6:159" ph="..." />
+            <marker date="1548292489908" expanded="true" signature="186:4002" ph="{...}" />
+            <marker date="1548292489908" expanded="true" signature="206:4000" ph="{...}" />
+            <marker date="1548292489908" expanded="true" signature="425:2275" ph="{...}" />
+            <marker date="1548292489908" expanded="true" signature="451:2116" ph="{...}" />
+            <marker date="1548292489908" expanded="true" signature="757:1430" ph="{...}" />
+            <marker date="1548292489908" expanded="true" signature="2149:2265" ph="{...}" />
+            <marker date="1548292489908" expanded="true" signature="2348:2595" ph="{...}" />
+            <marker date="1548292489908" expanded="true" signature="2661:3081" ph="{...}" />
+            <marker date="1548292489908" expanded="true" signature="2687:2916" ph="{...}" />
+            <marker date="1548292489908" expanded="true" signature="2949:3071" ph="{...}" />
+            <marker date="1548292489908" expanded="true" signature="3174:3787" ph="{...}" />
+            <marker date="1548292489908" expanded="true" signature="3427:3672" ph="{...}" />
+            <marker date="1548292489908" expanded="true" signature="3499:3641" ph="{...}" />
+            <marker date="1548292489908" expanded="true" signature="3689:3777" ph="{...}" />
+            <marker date="1548292489908" expanded="true" signature="3842:3985" ph="{...}" />
+            <marker date="1548292489908" expanded="true" signature="3903:3975" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WordUnscrambler/Worker/WordMatcher.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <marker date="1548292516776" expanded="false" signature="6:117" ph="..." />
+            <marker date="1548292516776" expanded="true" signature="151:1167" ph="{...}" />
+            <marker date="1548292516776" expanded="true" signature="182:1165" ph="{...}" />
+            <marker date="1548292516776" expanded="true" signature="299:868" ph="{...}" />
+            <marker date="1548292516776" expanded="true" signature="424:824" ph="{...}" />
+            <marker date="1548292516776" expanded="true" signature="697:810" ph="{...}" />
+            <marker date="1548292516776" expanded="true" signature="956:1159" ph="{...}" />
+            <marker date="1548292516776" expanded="true" signature="1025:1115" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkUnscramber.Test.Unit/WordListParserTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+          <folding>
+            <marker date="1548292470475" expanded="true" signature="6:115" ph="..." />
+            <marker date="1548292470475" expanded="true" signature="151:1526" ph="{...}" />
+            <marker date="1548292470475" expanded="true" signature="205:1524" ph="{...}" />
+            <marker date="1548292470475" expanded="true" signature="370:1518" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkUnscramber.Test.Unit/WordMatcherTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <marker date="1548292546170" expanded="true" signature="6:109" ph="..." />
+            <marker date="1548292546170" expanded="true" signature="145:1540" ph="{...}" />
+            <marker date="1548292546170" expanded="true" signature="196:1538" ph="{...}" />
+            <marker date="1548292546170" expanded="true" signature="440:901" ph="{...}" />
+            <marker date="1548292546170" expanded="true" signature="989:1532" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WordUnscrambler/Constants.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <marker date="1548292576784" expanded="true" signature="25:1253" ph="{...}" />
+            <marker date="1548292576784" expanded="true" signature="54:1251" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WordUnscrambler/wordlist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

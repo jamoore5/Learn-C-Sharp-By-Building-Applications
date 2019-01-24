@@ -1,0 +1,11 @@
+/Users/jamoore/Development/C#/WordUnscrambler/WordUnscrambler/bin/Debug/netcoreapp2.1/WordUnscrambler.deps.json
+/Users/jamoore/Development/C#/WordUnscrambler/WordUnscrambler/bin/Debug/netcoreapp2.1/WordUnscrambler.runtimeconfig.json
+/Users/jamoore/Development/C#/WordUnscrambler/WordUnscrambler/bin/Debug/netcoreapp2.1/WordUnscrambler.runtimeconfig.dev.json
+/Users/jamoore/Development/C#/WordUnscrambler/WordUnscrambler/bin/Debug/netcoreapp2.1/WordUnscrambler.dll
+/Users/jamoore/Development/C#/WordUnscrambler/WordUnscrambler/bin/Debug/netcoreapp2.1/WordUnscrambler.pdb
+/Users/jamoore/Development/C#/WordUnscrambler/WordUnscrambler/obj/Debug/netcoreapp2.1/WordUnscrambler.csprojAssemblyReference.cache
+/Users/jamoore/Development/C#/WordUnscrambler/WordUnscrambler/obj/Debug/netcoreapp2.1/WordUnscrambler.csproj.CoreCompileInputs.cache
+/Users/jamoore/Development/C#/WordUnscrambler/WordUnscrambler/obj/Debug/netcoreapp2.1/WordUnscrambler.AssemblyInfoInputs.cache
+/Users/jamoore/Development/C#/WordUnscrambler/WordUnscrambler/obj/Debug/netcoreapp2.1/WordUnscrambler.AssemblyInfo.cs
+/Users/jamoore/Development/C#/WordUnscrambler/WordUnscrambler/obj/Debug/netcoreapp2.1/WordUnscrambler.dll
+/Users/jamoore/Development/C#/WordUnscrambler/WordUnscrambler/obj/Debug/netcoreapp2.1/WordUnscrambler.pdb
