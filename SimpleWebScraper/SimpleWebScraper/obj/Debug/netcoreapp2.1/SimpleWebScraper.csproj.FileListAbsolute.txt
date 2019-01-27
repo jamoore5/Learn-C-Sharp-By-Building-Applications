@@ -1,0 +1,11 @@
+/Users/jamoore/Development/Learn-C-Sharp-By-Building-Applications/SimpleWebScraper/SimpleWebScraper/bin/Debug/netcoreapp2.1/SimpleWebScraper.deps.json
+/Users/jamoore/Development/Learn-C-Sharp-By-Building-Applications/SimpleWebScraper/SimpleWebScraper/bin/Debug/netcoreapp2.1/SimpleWebScraper.runtimeconfig.json
+/Users/jamoore/Development/Learn-C-Sharp-By-Building-Applications/SimpleWebScraper/SimpleWebScraper/bin/Debug/netcoreapp2.1/SimpleWebScraper.runtimeconfig.dev.json
+/Users/jamoore/Development/Learn-C-Sharp-By-Building-Applications/SimpleWebScraper/SimpleWebScraper/bin/Debug/netcoreapp2.1/SimpleWebScraper.dll
+/Users/jamoore/Development/Learn-C-Sharp-By-Building-Applications/SimpleWebScraper/SimpleWebScraper/bin/Debug/netcoreapp2.1/SimpleWebScraper.pdb
+/Users/jamoore/Development/Learn-C-Sharp-By-Building-Applications/SimpleWebScraper/SimpleWebScraper/obj/Debug/netcoreapp2.1/SimpleWebScraper.csprojAssemblyReference.cache
+/Users/jamoore/Development/Learn-C-Sharp-By-Building-Applications/SimpleWebScraper/SimpleWebScraper/obj/Debug/netcoreapp2.1/SimpleWebScraper.csproj.CoreCompileInputs.cache
+/Users/jamoore/Development/Learn-C-Sharp-By-Building-Applications/SimpleWebScraper/SimpleWebScraper/obj/Debug/netcoreapp2.1/SimpleWebScraper.AssemblyInfoInputs.cache
+/Users/jamoore/Development/Learn-C-Sharp-By-Building-Applications/SimpleWebScraper/SimpleWebScraper/obj/Debug/netcoreapp2.1/SimpleWebScraper.AssemblyInfo.cs
+/Users/jamoore/Development/Learn-C-Sharp-By-Building-Applications/SimpleWebScraper/SimpleWebScraper/obj/Debug/netcoreapp2.1/SimpleWebScraper.dll
+/Users/jamoore/Development/Learn-C-Sharp-By-Building-Applications/SimpleWebScraper/SimpleWebScraper/obj/Debug/netcoreapp2.1/SimpleWebScraper.pdb

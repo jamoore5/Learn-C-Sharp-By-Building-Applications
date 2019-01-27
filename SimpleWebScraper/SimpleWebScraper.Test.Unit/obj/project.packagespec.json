@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/jamoore/Development/Learn-C-Sharp-By-Building-Applications/SimpleWebScraper/SimpleWebScraper.Test.Unit/SimpleWebScraper.Test.Unit.csproj",
+    "projectName": "SimpleWebScraper.Test.Unit",
+    "projectPath": "/Users/jamoore/Development/Learn-C-Sharp-By-Building-Applications/SimpleWebScraper/SimpleWebScraper.Test.Unit/SimpleWebScraper.Test.Unit.csproj",
+    "outputPath": "/Users/jamoore/Development/Learn-C-Sharp-By-Building-Applications/SimpleWebScraper/SimpleWebScraper.Test.Unit/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "/Users/jamoore/Development/Learn-C-Sharp-By-Building-Applications/SimpleWebScraper/SimpleWebScraper/SimpleWebScraper.csproj": {
+            "projectPath": "/Users/jamoore/Development/Learn-C-Sharp-By-Building-Applications/SimpleWebScraper/SimpleWebScraper/SimpleWebScraper.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "MSTest.TestAdapter": {
+          "target": "Package",
+          "version": "[1.3.2, )"
+        },
+        "MSTest.TestFramework": {
+          "target": "Package",
+          "version": "[1.3.2, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.9.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

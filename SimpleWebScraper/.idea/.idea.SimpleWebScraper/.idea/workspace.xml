@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2d154b9-06c9-4525-ace1-1e36c8c39c24" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SimpleWebScraper/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SimpleWebScraper/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SimpleWebScraper/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SimpleWebScraper/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SimpleWebScraper/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SimpleWebScraper/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/SimpleWebScraper.Test.Unit.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/Workers/ScraperTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/bin/Debug/netcoreapp2.1/SimpleWebScraper.Test.Unit.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/bin/Debug/netcoreapp2.1/SimpleWebScraper.Test.Unit.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/bin/Debug/netcoreapp2.1/SimpleWebScraper.Test.Unit.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/bin/Debug/netcoreapp2.1/SimpleWebScraper.Test.Unit.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/bin/Debug/netcoreapp2.1/SimpleWebScraper.Test.Unit.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/bin/Debug/netcoreapp2.1/SimpleWebScraper.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/bin/Debug/netcoreapp2.1/SimpleWebScraper.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/obj/Debug/netcoreapp2.1/SimpleWebScraper.Test.Unit.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/obj/Debug/netcoreapp2.1/SimpleWebScraper.Test.Unit.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/obj/Debug/netcoreapp2.1/SimpleWebScraper.Test.Unit.Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/obj/Debug/netcoreapp2.1/SimpleWebScraper.Test.Unit.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/obj/Debug/netcoreapp2.1/SimpleWebScraper.Test.Unit.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/obj/Debug/netcoreapp2.1/SimpleWebScraper.Test.Unit.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/obj/Debug/netcoreapp2.1/SimpleWebScraper.Test.Unit.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/obj/Debug/netcoreapp2.1/SimpleWebScraper.Test.Unit.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/obj/Debug/netcoreapp2.1/SimpleWebScraper.Test.Unit.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/obj/Debug/netcoreapp2.1/SimpleWebScraper.Test.Unit.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/obj/SimpleWebScraper.Test.Unit.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/obj/SimpleWebScraper.Test.Unit.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/obj/SimpleWebScraper.Test.Unit.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/Builders/ScrapeCriteriaBuilder.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/Builders/ScrapeCriteriaPartBuilder.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/Data/ComplexScrappedElement.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/Data/ScrapeCriteria.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/Data/ScrapeCriteriaPart.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/Data/ScrappedElement.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/Data/SimpleScrappedElement.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/SimpleWebScraper.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/Workers/CraigslistScraper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/Workers/ObituariesScraper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/Workers/Scraper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/bin/Debug/netcoreapp2.1/SimpleWebScraper.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/bin/Debug/netcoreapp2.1/SimpleWebScraper.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/bin/Debug/netcoreapp2.1/SimpleWebScraper.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/bin/Debug/netcoreapp2.1/SimpleWebScraper.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/bin/Debug/netcoreapp2.1/SimpleWebScraper.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/obj/Debug/netcoreapp2.1/SimpleWebScraper.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/obj/Debug/netcoreapp2.1/SimpleWebScraper.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/obj/Debug/netcoreapp2.1/SimpleWebScraper.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/obj/Debug/netcoreapp2.1/SimpleWebScraper.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/obj/Debug/netcoreapp2.1/SimpleWebScraper.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/obj/Debug/netcoreapp2.1/SimpleWebScraper.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/obj/Debug/netcoreapp2.1/SimpleWebScraper.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/obj/Debug/netcoreapp2.1/SimpleWebScraper.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/obj/Debug/netcoreapp2.1/SimpleWebScraper.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/obj/SimpleWebScraper.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/obj/SimpleWebScraper.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/obj/SimpleWebScraper.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleWebScraper/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-873391852">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="21" />
+          <entry key="csproj" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="21" />
+          <entry key="Csproj" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="5265" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="5265" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleWebScraper/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <marker date="1548613388932" expanded="false" signature="6:182" ph="..." />
+                <marker date="1548613388932" expanded="true" signature="210:402" ph="{...}" />
+                <marker date="1548613388932" expanded="true" signature="230:400" ph="{...}" />
+                <marker date="1548613388932" expanded="true" signature="333:394" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleWebScraper/Workers/CraigslistScraper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-628">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <marker date="1548617372803" expanded="false" signature="6:165" ph="..." />
+                <marker date="1548617372803" expanded="true" signature="201:2829" ph="{...}" />
+                <marker date="1548617372803" expanded="true" signature="245:2827" ph="{...}" />
+                <marker date="1548617372803" expanded="true" signature="345:1109" ph="{...}" />
+                <marker date="1548617372803" expanded="true" signature="371:962" ph="{...}" />
+                <marker date="1548617372803" expanded="true" signature="995:1099" ph="{...}" />
+                <marker date="1548617372803" expanded="true" signature="1192:2351" ph="{...}" />
+                <marker date="1548617372803" expanded="true" signature="1279:1457" ph="{...}" />
+                <marker date="1548617372803" expanded="true" signature="2436:2821" ph="{...}" />
+                <marker date="1548617372803" expanded="true" signature="2492:2798" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A824A951-ABFB-4CF2-B700-557C472C4FDA/69/630b49b7/MethodInfoExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SimpleWebScraper/Workers/ObituariesScraper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="54" column="47" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="47" />
+              <folding>
+                <marker date="1548617372796" expanded="false" signature="6:165" ph="..." />
+                <marker date="1548617372796" expanded="true" signature="201:2437" ph="{...}" />
+                <marker date="1548617372796" expanded="true" signature="238:2435" ph="{...}" />
+                <marker date="1548617372796" expanded="true" signature="385:455" ph="{...}" />
+                <marker date="1548617372796" expanded="true" signature="521:2429" ph="{...}" />
+                <marker date="1548617372796" expanded="true" signature="623:789" ph="{...}" />
+                <marker date="1548617372796" expanded="true" signature="2184:2406" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleWebScraper/Workers/Scraper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+              <folding>
+                <marker date="1548611561406" expanded="false" signature="6:119" ph="..." />
+                <marker date="1548611561406" expanded="true" signature="155:1390" ph="{...}" />
+                <marker date="1548611561406" expanded="true" signature="182:1388" ph="{...}" />
+                <marker date="1548611561406" expanded="true" signature="263:1382" ph="{...}" />
+                <marker date="1548611561406" expanded="true" signature="524:1334" ph="{...}" />
+                <marker date="1548611561406" expanded="true" signature="587:770" ph="{...}" />
+                <marker date="1548611561406" expanded="true" signature="791:1320" ph="{...}" />
+                <marker date="1548611561406" expanded="true" signature="943:1212" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleWebScraper/Data/ScrappedElement.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding>
+                <marker date="1548608344203" expanded="true" signature="31:93" ph="{...}" />
+                <marker date="1548608344203" expanded="true" signature="70:91" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleWebScraper/Data/SimpleScrappedElement.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+              <folding>
+                <marker date="1548616279820" expanded="true" signature="31:344" ph="{...}" />
+                <marker date="1548616279820" expanded="true" signature="90:342" ph="{...}" />
+                <marker date="1548616279820" expanded="true" signature="190:242" ph="{...}" />
+                <marker date="1548616279820" expanded="true" signature="285:336" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleWebScraper/Data/ComplexScrappedElement.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+              <folding>
+                <marker date="1548617180336" expanded="true" signature="6:76" ph="..." />
+                <marker date="1548617180336" expanded="true" signature="109:1253" ph="{...}" />
+                <marker date="1548617180336" expanded="true" signature="169:1251" ph="{...}" />
+                <marker date="1548617180336" expanded="true" signature="279:358" ph="{...}" />
+                <marker date="1548617180336" expanded="true" signature="414:475" ph="{...}" />
+                <marker date="1548617180336" expanded="true" signature="507:568" ph="{...}" />
+                <marker date="1548617180336" expanded="true" signature="609:831" ph="{...}" />
+                <marker date="1548617180336" expanded="true" signature="721:790" ph="{...}" />
+                <marker date="1548617180336" expanded="true" signature="884:1126" ph="{...}" />
+                <marker date="1548617180336" expanded="true" signature="1172:1245" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleWebScraper/Builders/ScrapeCriteriaPartBuilder.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+              <folding>
+                <marker date="1548607382675" expanded="false" signature="6:66" ph="..." />
+                <marker date="1548607382675" expanded="true" signature="103:1267" ph="{...}" />
+                <marker date="1548607382675" expanded="true" signature="148:1265" ph="{...}" />
+                <marker date="1548607382675" expanded="true" signature="303:350" ph="{...}" />
+                <marker date="1548607382675" expanded="true" signature="386:488" ph="{...}" />
+                <marker date="1548607382675" expanded="true" signature="560:631" ph="{...}" />
+                <marker date="1548607382675" expanded="true" signature="697:770" ph="{...}" />
+                <marker date="1548607382675" expanded="true" signature="855:942" ph="{...}" />
+                <marker date="1548607382675" expanded="true" signature="985:1259" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleWebScraper.Test.Unit/Workers/ScraperTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A824A951-ABFB-4CF2-B700-557C472C4FDA/69/630b49b7/MethodInfoExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleWebScraper/Workers/ObituariesScraper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///C# Console" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleWebScraper/Data/ScrappedElement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleWebScraper/Workers/Scraper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleWebScraper/Data/SimpleScrappedElement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleWebScraper/Data/ComplexScrappedElement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleWebScraper/Builders/ScrapeCriteriaPartBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleWebScraper/Workers/CraigslistScraper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleWebScraper/Builders/ScrapeCriteriaBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleWebScraper/Data/ScrapeCriteriaPart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/40A25E37-AA61-4E0A-B669-2A6A31AFC013/05/405d9618/WebClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleWebScraper/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleWebScraper/Data/ScrapeCriteria.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SimpleWebScraper/Data/ScrapeCriteria.cs" />
+        <option value="$PROJECT_DIR$/SimpleWebScraper/Builders/ScrapeCriteriaBuilder.cs" />
+        <option value="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/Workers/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/SimpleWebScraper/Data/ScrapeCriteriaPart.cs" />
+        <option value="$PROJECT_DIR$/SimpleWebScraper/Builders/ScrapeCriteriaPartBuilder.cs" />
+        <option value="$PROJECT_DIR$/SimpleWebScraper/Data/ScrappedElement.cs" />
+        <option value="$PROJECT_DIR$/SimpleWebScraper/Workers/ScrapeCraigslist.cs" />
+        <option value="$PROJECT_DIR$/SimpleWebScraper/Workers/CraigslistProgram.cs" />
+        <option value="$PROJECT_DIR$/SimpleWebScraper/Workers/Scraper.cs" />
+        <option value="$PROJECT_DIR$/SimpleWebScraper/CraigslistProgram.cs" />
+        <option value="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/Workers/ScraperTest.cs" />
+        <option value="$PROJECT_DIR$/SimpleWebScraper/Program.cs" />
+        <option value="$PROJECT_DIR$/ScapeJavaScript/Program.cs" />
+        <option value="$PROJECT_DIR$/SimpleWebScraper/Data/SimpleScrappedElement.cs" />
+        <option value="$PROJECT_DIR$/SimpleWebScraper/Data/ComplexScrappedElement.cs" />
+        <option value="$PROJECT_DIR$/SimpleWebScraper/ObituariesScraper.cs" />
+        <option value="$PROJECT_DIR$/SimpleWebScraper/CraigslistScraper.cs" />
+        <option value="$PROJECT_DIR$/SimpleWebScraper/Workers/CraigslistScraper.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SimpleWebScraper" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SimpleWebScraper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SimpleWebScraper" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SimpleWebScraper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SimpleWebScraper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SimpleWebScraper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SimpleWebScraper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Builders" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SimpleWebScraper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SimpleWebScraper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Data" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SimpleWebScraper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SimpleWebScraper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Workers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SimpleWebScraper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SimpleWebScraper.Test.Unit" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SimpleWebScraper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SimpleWebScraper.Test.Unit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Workers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SimpleWebScraper/bin/Debug/netcoreapp2.1/SimpleWebScraper.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SimpleWebScraper" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SimpleWebScraper/SimpleWebScraper.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2d154b9-06c9-4525-ace1-1e36c8c39c24" name="Default Changelist" comment="" />
+      <created>1548598165649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548598165649</updated>
+      <workItem from="1548598168793" duration="15802000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15802000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18093699" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" weight="0.329927" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" weight="0.329927" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.329927" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/SimpleWebScraper.Test.Unit/Workers/ScraperTest.cs</url>
+          <line>56</line>
+          <properties documentPath="$PROJECT_DIR$/SimpleWebScraper.Test.Unit/Workers/ScraperTest.cs" initialLine="56">
+            <startOffsets>
+              <option value="2636" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2701" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/SimpleWebScraper/Data/ComplexScrappedElement.cs</url>
+          <line>46</line>
+          <properties documentPath="$PROJECT_DIR$/SimpleWebScraper/Data/ComplexScrappedElement.cs" initialLine="46">
+            <startOffsets>
+              <option value="1195" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1235" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/SimpleWebScraper/Workers/ObituariesScraper.cs</url>
+          <line>23</line>
+          <properties documentPath="$PROJECT_DIR$/SimpleWebScraper/ObituariesScraper.cs" initialLine="17">
+            <startOffsets>
+              <option value="654" />
+            </startOffsets>
+            <endOffsets>
+              <option value="758" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>element.ToString()</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>string(element)</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Regex.Replace()</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:System.Text.RegularExpressions;System.Text.RegularExpressions;System.Text.RegularExpressions;System.Text.RegularExpressions</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>scrappedElement.HasPart(&quot;Link&quot;)</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.Value</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>matchedPart.Groups[1].Value</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/40A25E37-AA61-4E0A-B669-2A6A31AFC013/05/405d9618/WebClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleWebScraper/Data/ScrapeCriteria.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="59" selection-start-line="12" selection-start-column="8" selection-end-line="15" selection-end-column="59" />
+          <folding>
+            <marker date="1548600275320" expanded="true" signature="6:71" ph="..." />
+            <marker date="1548600275320" expanded="true" signature="104:462" ph="{...}" />
+            <marker date="1548600275320" expanded="true" signature="138:460" ph="{...}" />
+            <marker date="1548600275320" expanded="true" signature="176:248" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleWebScraper/Builders/ScrapeCriteriaBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="39" column="47" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
+          <folding>
+            <marker date="1548601670230" expanded="true" signature="6:100" ph="..." />
+            <marker date="1548601670230" expanded="true" signature="137:1590" ph="{...}" />
+            <marker date="1548601670230" expanded="true" signature="178:1588" ph="{...}" />
+            <marker date="1548601670230" expanded="true" signature="378:425" ph="{...}" />
+            <marker date="1548601670230" expanded="true" signature="461:649" ph="{...}" />
+            <marker date="1548601670230" expanded="true" signature="709:780" ph="{...}" />
+            <marker date="1548601670230" expanded="true" signature="850:923" ph="{...}" />
+            <marker date="1548601670230" expanded="true" signature="1011:1096" ph="{...}" />
+            <marker date="1548601670230" expanded="true" signature="1176:1251" ph="{...}" />
+            <marker date="1548601670230" expanded="true" signature="1290:1582" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleWebScraper.Test.Unit/Workers/ScraperTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleWebScraper/SimpleWebScraper.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleWebScraper/Data/ScrapeCriteriaPart.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <marker date="1548607289901" expanded="true" signature="70:259" ph="{...}" />
+            <marker date="1548607289901" expanded="true" signature="108:257" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleWebScraper/Builders/ScrapeCriteriaPartBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+          <folding>
+            <marker date="1548607382675" expanded="false" signature="6:66" ph="..." />
+            <marker date="1548607382675" expanded="true" signature="103:1267" ph="{...}" />
+            <marker date="1548607382675" expanded="true" signature="148:1265" ph="{...}" />
+            <marker date="1548607382675" expanded="true" signature="303:350" ph="{...}" />
+            <marker date="1548607382675" expanded="true" signature="386:488" ph="{...}" />
+            <marker date="1548607382675" expanded="true" signature="560:631" ph="{...}" />
+            <marker date="1548607382675" expanded="true" signature="697:770" ph="{...}" />
+            <marker date="1548607382675" expanded="true" signature="855:942" ph="{...}" />
+            <marker date="1548607382675" expanded="true" signature="985:1259" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleWebScraper/Workers/Scraper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+          <folding>
+            <marker date="1548611561406" expanded="false" signature="6:119" ph="..." />
+            <marker date="1548611561406" expanded="true" signature="155:1390" ph="{...}" />
+            <marker date="1548611561406" expanded="true" signature="182:1388" ph="{...}" />
+            <marker date="1548611561406" expanded="true" signature="263:1382" ph="{...}" />
+            <marker date="1548611561406" expanded="true" signature="524:1334" ph="{...}" />
+            <marker date="1548611561406" expanded="true" signature="587:770" ph="{...}" />
+            <marker date="1548611561406" expanded="true" signature="791:1320" ph="{...}" />
+            <marker date="1548611561406" expanded="true" signature="943:1212" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleWebScraper.Test.Unit/Workers/ScraperTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="61" column="4" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
+          <folding>
+            <marker date="1548611770340" expanded="true" signature="6:183" ph="..." />
+            <marker date="1548611770340" expanded="true" signature="229:3017" ph="{...}" />
+            <marker date="1548611770340" expanded="true" signature="276:3015" ph="{...}" />
+            <marker date="1548611770340" expanded="true" signature="419:1353" ph="{...}" />
+            <marker date="1548611770340" expanded="true" signature="1432:3009" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleWebScraper/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <marker date="1548613388932" expanded="false" signature="6:182" ph="..." />
+            <marker date="1548613388932" expanded="true" signature="210:402" ph="{...}" />
+            <marker date="1548613388932" expanded="true" signature="230:400" ph="{...}" />
+            <marker date="1548613388932" expanded="true" signature="333:394" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScapeJavaScript/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleWebScraper/Data/SimpleScrappedElement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <marker date="1548616279820" expanded="true" signature="31:344" ph="{...}" />
+            <marker date="1548616279820" expanded="true" signature="90:342" ph="{...}" />
+            <marker date="1548616279820" expanded="true" signature="190:242" ph="{...}" />
+            <marker date="1548616279820" expanded="true" signature="285:336" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleWebScraper/Data/ScrappedElement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1548608344203" expanded="true" signature="31:93" ph="{...}" />
+            <marker date="1548608344203" expanded="true" signature="70:91" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A824A951-ABFB-4CF2-B700-557C472C4FDA/69/630b49b7/MethodInfoExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleWebScraper/Data/ComplexScrappedElement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+          <folding>
+            <marker date="1548617180336" expanded="true" signature="6:76" ph="..." />
+            <marker date="1548617180336" expanded="true" signature="109:1253" ph="{...}" />
+            <marker date="1548617180336" expanded="true" signature="169:1251" ph="{...}" />
+            <marker date="1548617180336" expanded="true" signature="279:358" ph="{...}" />
+            <marker date="1548617180336" expanded="true" signature="414:475" ph="{...}" />
+            <marker date="1548617180336" expanded="true" signature="507:568" ph="{...}" />
+            <marker date="1548617180336" expanded="true" signature="609:831" ph="{...}" />
+            <marker date="1548617180336" expanded="true" signature="721:790" ph="{...}" />
+            <marker date="1548617180336" expanded="true" signature="884:1126" ph="{...}" />
+            <marker date="1548617180336" expanded="true" signature="1172:1245" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleWebScraper/Workers/CraigslistScraper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-628">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <marker date="1548617372803" expanded="false" signature="6:165" ph="..." />
+            <marker date="1548617372803" expanded="true" signature="201:2829" ph="{...}" />
+            <marker date="1548617372803" expanded="true" signature="245:2827" ph="{...}" />
+            <marker date="1548617372803" expanded="true" signature="345:1109" ph="{...}" />
+            <marker date="1548617372803" expanded="true" signature="371:962" ph="{...}" />
+            <marker date="1548617372803" expanded="true" signature="995:1099" ph="{...}" />
+            <marker date="1548617372803" expanded="true" signature="1192:2351" ph="{...}" />
+            <marker date="1548617372803" expanded="true" signature="1279:1457" ph="{...}" />
+            <marker date="1548617372803" expanded="true" signature="2436:2821" ph="{...}" />
+            <marker date="1548617372803" expanded="true" signature="2492:2798" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleWebScraper/Workers/ObituariesScraper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="54" column="47" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="47" />
+          <folding>
+            <marker date="1548617372796" expanded="false" signature="6:165" ph="..." />
+            <marker date="1548617372796" expanded="true" signature="201:2437" ph="{...}" />
+            <marker date="1548617372796" expanded="true" signature="238:2435" ph="{...}" />
+            <marker date="1548617372796" expanded="true" signature="385:455" ph="{...}" />
+            <marker date="1548617372796" expanded="true" signature="521:2429" ph="{...}" />
+            <marker date="1548617372796" expanded="true" signature="623:789" ph="{...}" />
+            <marker date="1548617372796" expanded="true" signature="2184:2406" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
